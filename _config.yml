@@ -1,0 +1,12 @@
+title: KindaMadLad blog
+email: temptaki5002@example.com
+description: >- 
+  Just doing the same thing over and over and over
+url: https://KindaMadLad-blog.github.io 
+baseurl: /KindaMadLad-blog.github.io/ 
+github_username:  t-88
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
