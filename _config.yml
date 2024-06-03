@@ -3,7 +3,7 @@ email: temptaki5002@example.com
 description: >- 
   Just doing the same thing over and over and over
 url: https://t-88.github.io/KindaMadLad-blog/ 
-baseurl: 
+baseurl: /KindaMadLad-blog
 github_username:  t-88
 
 markdown: kramdown
