@@ -13,7 +13,7 @@ tags: writup ctf
 
 ### files: 
 - [Emu 2.0 Documentation]({%link assets/2024-06-02-X-MAS-ctf-writeup/emu2.0/Emu 2.0 Documentation.pdf%})   
-- [rom]({%link assets/2024-06-02-X-MAS-ctf-writeup/emu2.0/rom%})
+- [rom]({{ site.url }}/assets/2024-06-02-X-MAS-ctf-writeup/emu2.0/rom)
 
 ### solution
 this challange requires you to write a emulator for emu2.0 cpu    
